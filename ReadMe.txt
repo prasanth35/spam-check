@@ -4,6 +4,3 @@
 ..>>Change the directory of the data set if needed
 ..>>Reference : www.kaggle.com
 ..>>search for spam 7 conceepts kaggle
-
-
-..>>any queries feel free to contact me @prasanthjohn35@gmail.com
